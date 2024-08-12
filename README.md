@@ -26,9 +26,9 @@ python app.py
 
 ### Input Parameters:
 
-Ticker Symbol: The stock ticker symbol you want to analyze 
-Start Date: The start date for the historical data (format: YYYY-MM-DD).
-End Date: The end date for the historical data (format: YYYY-MM-DD).
+- <b>Ticker Symbol:</b> The stock ticker symbol you want to analyze 
+- <b>Start Date:</b> The start date for the historical data (format: YYYY-MM-DD).
+- <b>End Date:</b> The end date for the historical data (format: YYYY-MM-DD).
 
 ### Output:
 
