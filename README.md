@@ -6,12 +6,12 @@ The Stock Data Visualization Application is a Python-based tool that analyzes an
 
 ### Features
 
-- Closing Price Plot: Visualizes the historical closing prices of the stock.
-- Trading Volume Plot: Shows the volume of stocks traded daily.
-- Moving Averages Plot: Displays 50-day and 200-day moving averages for trend analysis.
-- Daily Returns Plot: Calculates and plots daily percentage changes in stock prices.
-- Local Minima and Maxima Plot: Identifies and highlights significant local lows and highs in the closing price.
-- Price Segments Plot: Illustrates price movements between local minima.
+- <b>Closing Price Plot:</b> Visualizes the historical closing prices of the stock.
+- <b>Trading Volume Plot:</b> Shows the volume of stocks traded daily.
+- <b>Moving Averages Plot:</b> Displays 50-day and 200-day moving averages for trend analysis.
+- <b>Daily Returns Plot:</b>Calculates and plots daily percentage changes in stock prices.
+- <b>Local Minima and Maxima Plot:</b> Identifies and highlights significant local lows and highs in the closing price.
+- <b>Price Segments Plot:</b>Illustrates price movements between local minima.
 
 ### Technology Used
 
