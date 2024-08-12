@@ -18,7 +18,7 @@ The Stock Data Visualization Application is a Python-based tool that analyzes an
 - Python
 - Numpy
 - Matplotlib
-- scipy
+- Scipy
 
 ### Run the Script
 
